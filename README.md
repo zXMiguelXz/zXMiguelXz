@@ -31,7 +31,7 @@
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zXMiguelXz-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/miguel-garc%C3%ADa-le%C3%B3n-658101250/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MiguelGarcíaLeón-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-garc%C3%ADa-le%C3%B3n-658101250/)
 [![Correo](https://img.shields.io/badge/Email-zxmiguelxz%40example.com-red?style=flat-square&logo=gmail)](mailto:miguel.garcia120204@gmail.com)
 
 
